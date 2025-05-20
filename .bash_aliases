@@ -101,7 +101,7 @@ alias kg='kubectl get'
 alias kx='kubectl config use-context'
 
 # Git helpers
-alias gs='git status -sb'
+alias gs='git status -b'
 alias gc='git commit'
 alias gp='git push'
 alias gl='git pull --ff-only'
