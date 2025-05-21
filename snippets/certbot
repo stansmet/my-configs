@@ -1,0 +1,3 @@
+sudo certbot --nginx -d yourdomain.com -d www.yourdomain.com \
+             --agree-tos --redirect --hsts --staple-ocsp -m you@example.com
+

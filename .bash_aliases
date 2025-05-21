@@ -91,6 +91,7 @@ alias ll='ls -alF --color=auto'
 alias grep='grep --color=auto'
 alias ..='cd ..'
 alias ...='cd ../..'
+alias bat='batcat'
 
 # Docker / Compose / Kubernetes
 alias dps='docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Ports}}"'
