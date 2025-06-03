@@ -1,0 +1,1 @@
+glances ranger neovim bat
