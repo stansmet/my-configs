@@ -1,5 +1,3 @@
-# ~/.bashrc — ревизия 2025-05-18
-
 export EDITOR=nvim
 
 ###############################################################################
@@ -92,6 +90,7 @@ alias grep='grep --color=auto'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias bat='batcat'
+alias k='kubectl'
 
 # Docker / Compose / Kubernetes
 alias dps='docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Ports}}"'
