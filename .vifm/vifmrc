@@ -1,0 +1,5 @@
+" Theme
+colorscheme zenburn_1
+
+" Show hidden files
+set dotfiles
