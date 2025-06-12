@@ -1,0 +1,5 @@
+" Включаем true color, если поддерживается
+set termguicolors
+
+" Выбираем тему
+colorscheme far
