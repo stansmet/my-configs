@@ -3,3 +3,6 @@ colorscheme zenburn_1
 
 " Show hidden files
 set dotfiles
+
+" включить копирование внутри vifm с прогресс-баром
+set syscalls

@@ -51,3 +51,6 @@ Icon?
 
 # Нотари-сертификаты Ventura+
 *.caffemodel
+
+# for vifm
+vifminfo.json
